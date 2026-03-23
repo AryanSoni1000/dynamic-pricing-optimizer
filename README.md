@@ -1,4 +1,4 @@
-# Dynamic Pricing Optimizer
+<img width="1795" height="867" alt="image" src="https://github.com/user-attachments/assets/0d7ada94-f21f-4c64-8ec1-879e6836b2c9" /># Dynamic Pricing Optimizer
 
 An AI-powered pricing analytics tool that helps e-commerce businesses determine the optimal selling price to maximize revenue.  
 The project uses **Machine Learning**, **model comparison**, and **Streamlit** to provide real-time pricing insights through an interactive dashboard.
@@ -142,4 +142,8 @@ The project demonstrates that machine learning can be effectively used for dynam
 This confirms the usefulness of dynamic pricing in business decision-making.
 
 ---
+
+## Live App(Deployed on Streamlit Cloud)
+
+https://dynamic-pricing-optimizer-nfkynxdmljwjryfxsojacq.streamlit.app/
 
