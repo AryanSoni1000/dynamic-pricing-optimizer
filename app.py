@@ -186,6 +186,6 @@ st.plotly_chart(fig, use_container_width=True)
 st.markdown("""
 <hr>
 <p style='text-align:center; font-size:14px; color:gray;'>
-Made with ❤️ for academic innovation • Dynamic Pricing System © 2025
+Made with ❤️ for academic innovation • Dynamic Pricing System © 2026
 </p>
 """, unsafe_allow_html=True)
