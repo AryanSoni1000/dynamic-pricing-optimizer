@@ -141,6 +141,10 @@ The project demonstrates that machine learning can be effectively used for dynam
 
 This confirms the usefulness of dynamic pricing in business decision-making.
 
+## Demo Video
+
+https://drive.google.com/file/d/10wwh0LPBpALo_S3CXhDYYl61MxmXf4X4/view?usp=sharing
+
 ---
 
 ## Live App(Deployed on Streamlit Cloud)
